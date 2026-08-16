@@ -18,18 +18,6 @@
 
 ---
 
-<div align="center">
-
-### Software para operação real
-
-<sub>
-Automação de processos · Integração de sistemas · Metrologia · Gestão
-</sub>
-
-</div>
-
-<br>
-
 ## Contribuições
 
 <p align="center">
@@ -54,31 +42,15 @@ Automação de processos · Integração de sistemas · Metrologia · Gestão
 
 ## Projetos
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### CronoPAC
+### 🔸 CronoPAC
 
 Gestão e automação para a operação de postos de cronotacógrafo.
-
 `Gestão` `Automação` `Metrologia`
 
-</td>
-
-<td width="50%" valign="top">
-
-### TacCheck
+### 🔸 TacCheck
 
 Análise e conferência de medições aplicadas a ensaios metrológicos.
-
 `Análise` `Medições` `Validação`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -87,10 +59,6 @@ Análise e conferência de medições aplicadas a ensaios metrológicos.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,postgres,qt,fastapi,sqlite,linux,git,github" />
-
-<br><br>
-
-`Python` · `PyQt6` · `PostgreSQL` · `FastAPI` · `SQLite` · `Linux` · `Git`
 
 </div>
 
