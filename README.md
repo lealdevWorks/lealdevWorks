@@ -46,29 +46,28 @@ Ferramenta para análise e conferência de medições aplicadas a ensaios metrol
 
 ## Contribuições
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lealdevWorks/lealdevWorks/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lealdevWorks/lealdevWorks/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="Contribuições de Rafael Leal"
-    src="https://raw.githubusercontent.com/lealdevWorks/lealdevWorks/output/github-contribution-grid-snake.svg"
-  >
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lealdevWorks/lealdevWorks/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lealdevWorks/lealdevWorks/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      width="100%"
+      alt="Contribuições de Rafael Leal"
+      src="https://raw.githubusercontent.com/lealdevWorks/lealdevWorks/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
+</p>
 
 ---
 
 <div align="center">
 
-<sub>Leal DevWorks · Santa Catarina, Brasil 🇧🇷</sub>
+<sub>Leal DevWorks · Três Cachoeiras, RS · Brasil 🇧🇷</sub>
 
 </div>
